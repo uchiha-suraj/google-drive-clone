@@ -11,7 +11,8 @@
   
   ### App showcase and real-time message:
   
-  ![Demo](https://user-images.githubusercontent.com/46050946/124515435-15f87180-ddfd-11eb-8d99-b2f485239c74.mp4)
+  [![Demo]![Google-drive](https://user-images.githubusercontent.com/46050946/124516201-c4e97d00-ddfe-11eb-89ef-6b31ce6d90bb.png)
+](https://user-images.githubusercontent.com/46050946/124515435-15f87180-ddfd-11eb-8d99-b2f485239c74.mp4)
   
   **[⬆ Back to Top](#google-drive-clone)**
 
