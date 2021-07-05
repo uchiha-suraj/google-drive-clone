@@ -26,7 +26,7 @@
 
     🔷  Firebase-authentication => for Google authentication.
 
-    🔷  Firebase-storage => real time chat feature.
+    🔷  Firebase-storage => to upload the content.
 
     🔷  Firebase => to deploy the app
     
